@@ -1,4 +1,4 @@
-### Metigator Academy  :school:
+### Metigator Academy Edit :school:
 Database for an Academy that provide trainings
 
 ``` sql
